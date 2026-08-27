@@ -1,0 +1,16 @@
+"""
+Problem: Way Too Long Words (71A)
+Codeforces Submission ID: 388411417
+Author: habebaabdelrahem4
+"""
+
+n = int(input())
+
+for _ in range(n):
+    word = input().strip()
+    
+    if len(word) > 10:
+        abbreviation = word[0] + str(len(word) - 2) + word[-1]
+        print(abbreviation)
+    else:
+        print(word)
