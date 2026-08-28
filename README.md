@@ -1,7 +1,7 @@
 # 🏆 Codeforces Solutions - habebaabdelrahem4
 
 ![Profile](https://img.shields.io/badge/Codeforces-habebaabdelrahem4-blue?style=for-the-badge&logo=codeforces)
-![Solved](https://img.shields.io/badge/Accepted%20Problems-31-brightgreen?style=for-the-badge)
+![Solved](https://img.shields.io/badge/Accepted%20Problems-33-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-Python%203-yellow?style=for-the-badge&logo=python)
 
 مستودع يحتوي على جميع الحلول المقبولة (Accepted) لمسائل البرمجة التنافسية على موقع [Codeforces](https://codeforces.com/profile/habebaabdelrahem4) بلغة **Python**.
@@ -9,7 +9,7 @@
 ---
 
 ## 📊 إحصائيات سريعة (Quick Stats)
-- **إجمالي المسائل المحلولة:** 31 مسألة
+- **إجمالي المسائل المحلولة:** 33 مسألة
 - **لغة البرمجة:** Python (PyPy 3)
 - **مستويات الصعوبة:** تتراوح بين 800 و 1000
 
@@ -50,6 +50,8 @@
 | 29 | **Queue at the School** (`266B`) | `800` | constructive algorithms, graph matchings, implementation, shortest paths | [📄 عرض الكود](solutions/266B_Queue_at_the_School.py) | [رابط المسألة](https://codeforces.com/contest/266/problem/B) |
 | 30 | **George and Accommodation** (`467A`) | `800` | implementation | [📄 عرض الكود](solutions/467A_George_and_Accommodation.py) | [رابط المسألة](https://codeforces.com/contest/467/problem/A) |
 | 31 | **Young Physicist** (`69A`) | `1000` | implementation, math | [📄 عرض الكود](solutions/69A_Young_Physicist.py) | [رابط المسألة](https://codeforces.com/contest/69/problem/A) |
+| 32 | **Football** (`96A`) | `900` | implementation, strings | [📄 عرض الكود](solutions/96A_Football.py) | [رابط المسألة](https://codeforces.com/contest/96/problem/A) |
+| 33 | **Chat room** (`58A`) | `1000` | greedy, strings | [📄 عرض الكود](solutions/58A_Chat_room.py) | [رابط المسألة](https://codeforces.com/contest/58/problem/A) |
 
 ---
 
