@@ -3,7 +3,8 @@
 A personal repository containing my accepted solutions to competitive programming problems on [Codeforces](https://codeforces.com/profile/habebaabdelrahem4), written in **Python 3**.
 
 [![Codeforces Profile](https://img.shields.io/badge/Codeforces-habebaabdelrahem4-1f8ac4?style=flat-square&logo=codeforces)](https://codeforces.com/profile/habebaabdelrahem4)
-[![Solved Problems](https://img.shields.io/badge/Solved-33-success?style=flat-square)](https://codeforces.com/profile/habebaabdelrahem4)
+[![Solved Problems](https://img.shields.io/badge/Solved-36-success?style=flat-square)](https://codeforces.com/profile/habebaabdelrahem4)
+[![Difficulty](https://img.shields.io/badge/Rating-800--1300-orange?style=flat-square)](https://codeforces.com/profile/habebaabdelrahem4)
 [![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 
 ---
@@ -11,8 +12,8 @@ A personal repository containing my accepted solutions to competitive programmin
 ## 📌 Summary
 - **Profile:** [habebaabdelrahem4](https://codeforces.com/profile/habebaabdelrahem4)
 - **Primary Language:** Python 3 (PyPy 3)
-- **Total Solved:** 33 problems
-- **Difficulty Range:** 800 — 1000
+- **Total Solved:** 36 problems
+- **Difficulty Range:** 800 — 1300
 
 ---
 
@@ -53,6 +54,9 @@ A personal repository containing my accepted solutions to competitive programmin
 | 31 | [Young Physicist](https://codeforces.com/contest/69/problem/A) (`69A`) | `1000` | Implementation, Math | [`69A.py`](solutions/69A_Young_Physicist.py) |
 | 32 | [Football](https://codeforces.com/contest/96/problem/A) (`96A`) | `900` | Implementation, Strings | [`96A.py`](solutions/96A_Football.py) |
 | 33 | [Chat room](https://codeforces.com/contest/58/problem/A) (`58A`) | `1000` | Greedy, Strings | [`58A.py`](solutions/58A_Chat_room.py) |
+| 34 | [Registration System](https://codeforces.com/contest/4/problem/C) (`4C`) | `1300` | Data Structures, Hashing, Implementation | [`4C.py`](solutions/4C_Registration_System.py) |
+| 35 | [Expression](https://codeforces.com/contest/479/problem/A) (`479A`) | `1000` | Brute Force, Math | [`479A.py`](solutions/479A_Expression.py) |
+| 36 | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) (`492B`) | `1200` | Binary Search, Implementation, Math, Sortings | [`492B.py`](solutions/492B_Vanya_and_Lanterns.py) |
 
 ---
 
