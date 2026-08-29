@@ -3,7 +3,7 @@
 A personal repository containing my accepted solutions to competitive programming problems on [Codeforces](https://codeforces.com/profile/habebaabdelrahem4), written in **Python 3**.
 
 [![Codeforces Profile](https://img.shields.io/badge/Codeforces-habebaabdelrahem4-1f8ac4?style=flat-square&logo=codeforces)](https://codeforces.com/profile/habebaabdelrahem4)
-[![Solved Problems](https://img.shields.io/badge/Solved-37-success?style=flat-square)](https://codeforces.com/profile/habebaabdelrahem4)
+[![Solved Problems](https://img.shields.io/badge/Solved-40-success?style=flat-square)](https://codeforces.com/profile/habebaabdelrahem4)
 [![Difficulty](https://img.shields.io/badge/Rating-800--1300-orange?style=flat-square)](https://codeforces.com/profile/habebaabdelrahem4)
 [![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 
@@ -12,9 +12,9 @@ A personal repository containing my accepted solutions to competitive programmin
 ## 📌 Summary
 - **Profile:** [habebaabdelrahem4](https://codeforces.com/profile/habebaabdelrahem4)
 - **Primary Language:** Python 3 (PyPy 3)
-- **Total Solved:** 37 problems
+- **Total Solved:** 40 problems
 - **Difficulty Range:** 800 — 1300
-- **Rating Breakdown:** **`800`**: 29 problems • **`900`**: 2 problems • **`1000`**: 4 problems • **`1200`**: 1 problems • **`1300`**: 1 problems
+- **Rating Breakdown:** **`800`**: 29 problems • **`900`**: 4 problems • **`1000`**: 4 problems • **`1100`**: 1 problems • **`1200`**: 1 problems • **`1300`**: 1 problems
 
 ---
 
@@ -52,13 +52,16 @@ A personal repository containing my accepted solutions to competitive programmin
 | 28 | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) (`2248A`) | `800` | Greedy | [`2248A.py`](solutions/2248A_You_Delete__I_Delete.py) |
 | 29 | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) (`2256A`) | `800` | Math, Sortings | [`2256A.py`](solutions/2256A_Three_Numbers_on_the_Blackboard.py) |
 | 30 | [Football](https://codeforces.com/contest/96/problem/A) (`96A`) | `900` | Implementation, Strings | [`96A.py`](solutions/96A_Football.py) |
-| 31 | [Dubstep](https://codeforces.com/contest/208/problem/A) (`208A`) | `900` | Strings | [`208A.py`](solutions/208A_Dubstep.py) |
-| 32 | [Chat room](https://codeforces.com/contest/58/problem/A) (`58A`) | `1000` | Greedy, Strings | [`58A.py`](solutions/58A_Chat_room.py) |
-| 33 | [Young Physicist](https://codeforces.com/contest/69/problem/A) (`69A`) | `1000` | Implementation, Math | [`69A.py`](solutions/69A_Young_Physicist.py) |
-| 34 | [String Task](https://codeforces.com/contest/118/problem/A) (`118A`) | `1000` | Implementation, Strings | [`118A.py`](solutions/118A_String_Task.py) |
-| 35 | [Expression](https://codeforces.com/contest/479/problem/A) (`479A`) | `1000` | Brute Force, Math | [`479A.py`](solutions/479A_Expression.py) |
-| 36 | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) (`492B`) | `1200` | Binary Search, Implementation, Math, Sortings | [`492B.py`](solutions/492B_Vanya_and_Lanterns.py) |
-| 37 | [Registration System](https://codeforces.com/contest/4/problem/C) (`4C`) | `1300` | Data Structures, Hashing, Implementation | [`4C.py`](solutions/4C_Registration_System.py) |
+| 31 | [Twins](https://codeforces.com/contest/160/problem/A) (`160A`) | `900` | Greedy, Sortings | [`160A.py`](solutions/160A_Twins.py) |
+| 32 | [Dubstep](https://codeforces.com/contest/208/problem/A) (`208A`) | `900` | Strings | [`208A.py`](solutions/208A_Dubstep.py) |
+| 33 | [Even Odds](https://codeforces.com/contest/318/problem/A) (`318A`) | `900` | Math | [`318A.py`](solutions/318A_Even_Odds.py) |
+| 34 | [Chat room](https://codeforces.com/contest/58/problem/A) (`58A`) | `1000` | Greedy, Strings | [`58A.py`](solutions/58A_Chat_room.py) |
+| 35 | [Young Physicist](https://codeforces.com/contest/69/problem/A) (`69A`) | `1000` | Implementation, Math | [`69A.py`](solutions/69A_Young_Physicist.py) |
+| 36 | [String Task](https://codeforces.com/contest/118/problem/A) (`118A`) | `1000` | Implementation, Strings | [`118A.py`](solutions/118A_String_Task.py) |
+| 37 | [Expression](https://codeforces.com/contest/479/problem/A) (`479A`) | `1000` | Brute Force, Math | [`479A.py`](solutions/479A_Expression.py) |
+| 38 | [Taxi](https://codeforces.com/contest/158/problem/B) (`158B`) | `1100` | *Special, Greedy, Implementation | [`158B.py`](solutions/158B_Taxi.py) |
+| 39 | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) (`492B`) | `1200` | Binary Search, Implementation, Math, Sortings | [`492B.py`](solutions/492B_Vanya_and_Lanterns.py) |
+| 40 | [Registration System](https://codeforces.com/contest/4/problem/C) (`4C`) | `1300` | Data Structures, Hashing, Implementation | [`4C.py`](solutions/4C_Registration_System.py) |
 
 ---
 
